@@ -1,0 +1,13 @@
+{
+  "name": "ai-station-bot-v2",
+  "version": "2.0.0",
+  "description": "Universal AI Auto Reply Matrix Console Single File System",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {},
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
